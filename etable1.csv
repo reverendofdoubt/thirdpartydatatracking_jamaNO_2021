@@ -1,0 +1,80 @@
+﻿SUPPLEMENTAL TABLE AND FIGURES,,,,,,,,
+eTable 1. Third-Party Data Tracking by Major U.S. Hospitals by Hospital Category,,,,,,,,
+Hospital Name,,For-Profit vs Not-For-Profit (NFP),Bedsides,Ad Trackers,Third-party cookies,Session recording services present,Website informs Facebook,Google Analytics “remarketing audiences” present
+AdventHealth Orlando,,NFP,3890,5,1,No,No,Yes
+New York-Presbyterian Hospital*,,NFP,2592,9,22,No,Yes,No
+Jackson Health System,,NFP,2112,9,18,No,Yes,Yes
+NYU Langone Hospitals*,,NFP,1689,12,16,No,Yes,No
+Montefiore Medical Center,,NFP,1545,26,56,No,Yes,Yes
+Central Texas Veterans Health Care System,,NFP,1532,2,0,No,No,Yes
+DSH Patton,,NFP,1527,1,1,No,No,No
+Long Island Jewish Medical Center,,NFP,1522,15,20,Yes,Yes,Yes
+Memorial Hermann Greater Heights Hospital,,NFP,1521,8,4,No,Yes,Yes
+Yale-New Haven Hospital,,NFP,1455,15,33,Yes,Yes,Yes
+KALEIDA Health,,NFP,1409,2,0,No,No,Yes
+UPMC Presbyterian,,NFP,1409,9,8,No,Yes,Yes
+Barnes-Jewish Hospital*,,NFP,1395,9,8,No,Yes,Yes
+Spectrum Health - Butterworth Hospital,,NFP,1381,3,6,No,No,Yes
+Methodist Healthcare Memphis Hospitals,,NFP,1362,6,3,No,Yes,Yes
+Orlando Regional Medical Center,,NFP,1342,8,3,Yes,Yes,Yes
+Indiana University Health University Hospital,,NFP,1296,4,0,Yes,Yes,Yes
+Cleveland Clinic*,,NFP,1294,4,3,No,No,Yes
+Atrium Health's Carolinas Medical Center,,NFP,1287,2,4,No,No,No
+Mayo Clinic Hospital - Rochester*,,NFP,1287,4,4,No,No,Yes
+Napa State Hospital*,,NFP,1284,1,1,No,No,No
+Norton Hospital,,NFP,1263,9,10,No,Yes,Yes
+The Mount Sinai Hospital*,,NFP,1198,30,71,Yes,Yes,Yes
+University of Alabama Hospital,,NFP,1188,11,25,No,Yes,Yes
+Atascadero State Hospital*,,NFP,1184,1,1,No,No,No
+Ohio State University Wexner Medical Center,,NFP,1124,6,1,Yes,Yes,Yes
+Our Lady of the Lake Regional Medical Center,,NFP,1122,6,3,Yes,Yes,Yes
+Beaumont Hospital - Royal Oak,,NFP,1109,10,9,No,Yes,Yes
+ChristianaCare,,NFP,1074,23,58,No,Yes,Yes
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Methodist Hospital,,For-Profit,1667,2,3,No,No,Yes
+Baptist Medical Center,,For-Profit,1570,2,0,No,No,Yes
+Medical City Dallas*,,For-Profit,876,3,3,No,No,Yes
+South Texas Health System,,For-Profit,820,6,8,Yes,Yes,Yes
+Chippenham Hospital,,For-Profit,702,9,14,No,Yes,Yes
+Sunrise Hospital and Medical Center,,For-Profit,668,4,3,No,Yes,Yes
+TriStar Centennial Medical Center*,,For-Profit,650,2,2,No,No,Yes
+Medical City Plano*,,For-Profit,611,3,3,No,No,Yes
+Brookwood Baptist Medical Center,,For-Profit,607,6,5,No,Yes,Yes
+HCA Houston Healthcare Clear Lake*,,For-Profit,591,7,5,No,Yes,Yes
+TriStar Skyline Medical Center*,,For-Profit,579,2,2,No,No,Yes
+Las Palmas Medical Center,,For-Profit,576,2,2,No,No,Yes
+Wesley Healthcare Center,,For-Profit,573,4,2,No,Yes,Yes
+HCA Houston Healthcare Kingwood*,,For-Profit,563,9,40,No,Yes,Yes
+Henrico Doctors' Hospital,,For-Profit,560,9,18,No,Yes,Yes
+Tulane Health System,,For-Profit,543,4,2,No,Yes,Yes
+Delray Medical Center,,For-Profit,536,6,0,No,No,Yes
+Lewis-Gale Medical Center,,For-Profit,521,5,3,No,Yes,Yes
+Doctor's Hospital at Renaissance,,For-Profit,519,18,52,Yes,No,Yes
+Hillcrest Medical Center,,For-Profit,510,2,0,No,No,Yes
+Conemaugh Memorial Medical Center,,For-Profit,509,3,1,No,No,No
+Research Medical Center,,For-Profit,489,5,3,No,Yes,Yes
+Carondelet St. Joseph's Hospital,,For-Profit,486,6,2,No,Yes,Yes
+,,,,,,,,
+,,,,,,,,
+"1. Mayo Clinic, Rochester, Minnesota",,USNWR,1287,4,4,No,No,Yes
+2. Cleveland Clinic,,USNWR,1294,4,3,No,No,Yes
+"3. Johns Hopkins Hospital, Baltimore",,USNWR,1008,10,14,No,Yes,Yes
+"4 (tie). New York-Presbyterian Hospital-Columbia and Cornell, New York",,USNWR,2592,9,22,No,Yes,No
+"4 (tie). UCLA Medical Center, Los Angeles",,USNWR,445,17,32,No,Yes,Yes
+"6. Massachusetts General Hospital, Boston",,USNWR,1035,7,14,No,No,Yes
+"7. Cedars-Sinai Medical Center, Los Angeles",,USNWR,886,10,18,Yes,Yes,Yes
+"8. UCSF Medical Center, San Francisco",,USNWR,820,3,1,Yes,No,Yes
+"9. NYU Langone Hospitals, New York",,USNWR,1689,12,16,No,Yes,No
+"10. Northwestern Memorial Hospital, Chicago",,USNWR,894,11,23,Yes,Yes,Yes
+"11. University of Michigan Hospitals-Michigan Medicine, Ann Arbor",,USNWR,1004,3,3,No,No,Yes
+"12. Brigham and Women's Hospital, Boston",,USNWR,822,5,1,No,Yes,No
+"13. Stanford Health Care-Stanford Hospital, Stanford, California",,USNWR,477,12,22,No,Yes,Yes
+"14. Mount Sinai Hospital, New York",,USNWR,1198,30,71,Yes,Yes,Yes
+"15. Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia",,USNWR,807,9,9,No,Yes,Yes
+16. Mayo Clinic-Phoenix,,USNWR,280,4,4,No,No,Yes
+"17. Rush University Medical Center, Chicago",,USNWR,684,5,9,Yes,Yes,Yes
+"18 (tie). Barnes-Jewish Hospital, St. Louis",,USNWR,1395,9,8,No,Yes,Yes
+"18 (tie). Keck Hospital of USC, Los Angeles",,USNWR,401,7,5,Yes,Yes,Yes
+20. Houston Methodist Hospital,,USNWR,954,13,24,Yes,Yes,Yes
